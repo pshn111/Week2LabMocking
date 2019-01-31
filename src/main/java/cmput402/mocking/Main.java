@@ -16,22 +16,21 @@ public class Main
     	
     	Address address3= new Address("University of Victoria", "Victoria");
     	Employee employee3= new Employee("Abram hindle", 2, 70000, address3);
-
-//	System.out.println(capitalizeName("abram hindle"));
-    }
-	
-    public static String capitalizeName(String name){
-	String capName="";
-	String[] tmpString;
-	
-	tmpString=name.split(" ");
-
-	capName = tmpString[0].substring(0, 1).toUpperCase()+tmpString[0].substring(1);
-
-	capName += " "+tmpString[1].substring(0, 1).toUpperCase()+tmpString[1].substring(1);
-
-	return capName;
-	
     	
+    	System.out.println(captilizeName(employee3.name));
+    }
+    
+    public static String captilizeName(String name){
+    	
+    	String capName = "";
+    	String[] tmpString = name.split(" ");
+    	
+    	capName = tmpString[0].substring(0, 1).toUpperCase()
+    			+ tmpString[0].substring(1);
+    	
+    	capName += " " + tmpString[1].substring(0, 1).toUpperCase()
+    			+ tmpString[1].substring(1);
+    	
+    	return capName;
     }
 }
