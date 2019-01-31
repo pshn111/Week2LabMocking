@@ -1,1 +1,22 @@
 2019-01-30 17:29:46,841 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-01-30 17:52:16,972 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-30 17:52:22,418 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cmput402:maven:0.0.1-SNAPSHOT @ /cshome/spei/Desktop/402 test/cmput402Week1Java/pom.xml.
+2019-01-30 17:52:24,026 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cmput402Week1Java/src/main/java
+2019-01-30 17:52:24,036 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cmput402Week1Java/src/test/java
+2019-01-30 17:52:24,147 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2019-01-30 17:52:24,397 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-30 17:52:24,398 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /cshome/spei/Desktop/402 test/cmput402Week1Java/src/main/resources
+2019-01-30 17:52:24,401 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-30 17:52:24,401 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /cshome/spei/Desktop/402 test/cmput402Week1Java/src/test/resources
+2019-01-30 17:53:32,887 [Worker-15] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-30 18:04:17,673 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cmput402:maven:0.0.1-SNAPSHOT @ /cshome/spei/Desktop/402 test/cmput402Week1Java/pom.xml.
+2019-01-30 18:04:18,456 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-30 18:04:18,456 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /cshome/spei/Desktop/402 test/cmput402Week1Java/src/main/resources
+2019-01-30 18:04:18,458 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-30 18:04:18,458 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /cshome/spei/Desktop/402 test/cmput402Week1Java/src/test/resources
+2019-01-30 18:06:04,652 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-30 18:39:03,716 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-30 18:39:07,266 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-30 18:39:07,267 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /cshome/spei/Desktop/402 test/cmput402Week1Java/src/main/resources
+2019-01-30 18:39:07,269 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-30 18:39:07,269 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /cshome/spei/Desktop/402 test/cmput402Week1Java/src/test/resources
